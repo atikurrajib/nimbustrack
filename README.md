@@ -1,4 +1,5 @@
-# NimbusTrack: A Weather Forcasting Web App
+# NimbusTrack
+
 Welcome to our NimbusTrack App repository! This project provides a simple and intuitive way to check the weather forecast for different cities, with responsiveness. With this app, users can quickly access essential weather information including temperature, wind speed, visibility, and humidity, along with a suitable image(`.gif`) representing the weather conditions.
 
 ## Features
@@ -16,7 +17,7 @@ Welcome to our NimbusTrack App repository! This project provides a simple and in
 - **`script.js`:** JavaScript file containing the logic and functionality of the weather forecasting app.
 - **`Other Files`:** Additional GIFs used to represent different weather conditions, Favicon also.
 
-## Usage
+## Usages
 
 1. Clone/Download/Copy the repository to your local machine.
 2. Open the `index.html` file in your web browser.
